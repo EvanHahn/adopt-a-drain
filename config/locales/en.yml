@@ -15,6 +15,8 @@ en:
     sign_out: "Sign out"
     sign_up: "Sign up"
     update: "Update"
+  subjects:
+    update_report: "%{title} import (%{deleted_adopted_count} adopted %{things} removed, %{created_count} %{things} added, %{deleted_unadopted_count} unadopted %{things} removed)"
   captions:
     optional: "(optional)"
     private: "(private)"
